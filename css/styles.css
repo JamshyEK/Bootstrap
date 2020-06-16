@@ -1,0 +1,13 @@
+.row-header{
+    
+}
+.jumbotron{
+    background-color: #9575cd;
+    color: white;
+}
+.footer{
+    background-color: #d1c4e9;
+}
+.row-content{
+    padding: 40px 20px 40px 20px;
+}
